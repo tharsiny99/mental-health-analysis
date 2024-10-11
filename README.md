@@ -34,3 +34,4 @@ The project predicts mental health outcomes based on user inputs and highlights 
 ## Contributing
 Feel free to open issues or create pull requests. Contributions are welcome!
 
+<img width="1728" alt="Py01" src="https://github.com/user-attachments/assets/1120ab9f-acd2-403a-a05a-ceec30f14691">
