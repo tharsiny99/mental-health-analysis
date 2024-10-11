@@ -1,6 +1,6 @@
 # Mental Health Analysis Project
 
-A machine learning project focused on analyzing mental health data and predicting outcomes to identify patterns for better mental health support.
+A Python project focused on analyzing mental health data and predicting outcomes to identify patterns for better mental health support.
 
 ## Table of Contents
 - [Introduction](#introduction)
